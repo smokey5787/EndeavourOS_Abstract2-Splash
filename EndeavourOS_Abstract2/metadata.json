@@ -1,0 +1,20 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel/Splash",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "",
+                "Name": ""
+            }
+        ],
+        "Category": "",
+        "Description": "EndeavourOS_Abstract2",
+        "Id": "EndeavourOS_Abstract2",
+        "License": "GPLv3",
+        "Name": "EndeavourOS_Abstract2",
+        "Website": ""
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+    "X-Plasma-APIVersion": "2"
+}
+
